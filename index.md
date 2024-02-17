@@ -13,7 +13,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 # Fraud Detection
 A dummy project on fraud detection
 
-https://github.com/amulay11/fraud_detection
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amulay11/fraud_detection)
 
 ## Telecom churn analysis
 
