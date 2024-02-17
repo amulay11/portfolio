@@ -1,6 +1,6 @@
 title: <p align='center'>Abhishek Mulay<p>
 logo: /assets/img/logo1.jpeg
 description: I am learning Data Science, AI and Machine Learning
-show_downloads: false
+show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
