@@ -1,6 +1,6 @@
 title: <p align='center'>Abhishek Mulay<p>
 logo: /assets/img/logo1.jpeg
-description: <a href="https://github.com/amulay11">GitHub</a>|<a href="https://www.linkedin.com/in/abhishek-mulay-03ab179a/">LinkedIn</a><br>I am learning Data Science, AI and Machine Learning
+description: <p align='center'><a href="https://github.com/amulay11">GitHub</a>|<a href="https://www.linkedin.com/in/abhishek-mulay-03ab179a/">LinkedIn</a></p><br><p align='center'>I am learning Data Science, AI and Machine Learning</p>
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
