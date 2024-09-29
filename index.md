@@ -1,4 +1,4 @@
-# AI & Machine Learning, NLP Portfolio
+# AI, Machine Learning, NLP Portfolio
 
 ## Telecom Churn Prediction
 
