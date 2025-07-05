@@ -4,7 +4,7 @@
 To enhance user experience and drive sales, leading ecommerce companies use Machine Learning and NLP based techniques to recommend products based on customer preferences and choices. Through this project I have built a sentiment-based product recommendation system for an ecommerce company.  This system utilizes user reviews and ratings to recommend products more effectively by leveraging machine learning models for sentiment analysis and recommendation algorithms.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amulay11/ebuss-product-reco)
-<center><img src="assets/img/Product_Recommendation.JPG"><center>
+<center><img src="assets/img/Product_Recommendation.png"><center>
 
 
 ## Telecom Churn Prediction
