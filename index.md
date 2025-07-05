@@ -13,5 +13,5 @@ Telecom companies face constant pressure to evolve due to shifting customer need
 This project analyzes mobile usage and recharge data to identify features that impact churn. Using machine learning, we aim to develop models that predict churn probability, enabling timely action to reduce customer attrition.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amulay11/Telecom_Churn_Prediction)
-<center><img src="assets/img/TelcoChurn.JPG" height=250 width=250><center>
+<center><img src="assets/img/telco_churn.JPG" height=250 width=250><center>
 
