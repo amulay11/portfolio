@@ -20,4 +20,4 @@ Telecom companies face significant customer service challenges such as High Call
 In this current version the TelcoGenie bot is a flask based application that works on a telecom customers and plans data set and answers queries related to Prepaid Balance, Postpaid Billing, Plan Details and also provides Plan recommendations based on customer's profile and inputs. It uses OpenAI's function calling feature to invoke tools to respond to specific customer queries.
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amulay11/TelcoGenie)
-<center><img src="assets/img/telco_churn.png"></center>
+<center><img src="assets/img/Conversational-AI.png"></center>
