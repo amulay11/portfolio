@@ -13,3 +13,11 @@ This project analyzes mobile usage and recharge data to identify features that i
 
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amulay11/Telecom_Churn_Prediction)
 <center><img src="assets/img/telco_churn.png"></center>
+
+## Telco Genie
+Telecom companies face significant customer service challenges such as High Call Volume, Repetitive Queries, Long Wait Times and Agent Burnout. These challenges can be tackled to centain extent with conversational bots and AI agents for customer service that provide instant smart responses with a 24/7 availability, providing scalability and consistency. These agents can perform intelligent query resolution with the right tools being triggered for response augmentation based on the cutomer query and conversation context. The agents can thus help to have a Reduced Call Volume, Lower Agent Load, Faster Resolution and Operational Efficiency.
+
+In this current version the TelcoGenie bot is a flask based application that works on a telecom customers and plans data set and answers queries related to Prepaid Balance, Postpaid Billing, Plan Details and also provides Plan recommendations based on customer's profile and inputs. It uses OpenAI's function calling feature to invoke tools to respond to specific customer queries.
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amulay11/TelcoGenie)
+<center><img src="assets/img/telco_churn.png"></center>
