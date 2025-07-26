@@ -1,4 +1,8 @@
 ---
+layout: default
+title: Portfolio
+---
+
 # AI, Machine Learning, NLP Portfolio
 
 ## Sentiment-Based Product Recommendation System for Ecommerce
