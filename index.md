@@ -6,7 +6,6 @@ To enhance user experience and drive sales, leading ecommerce companies use Mach
 [![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/amulay11/ebuss-product-reco)
 <center><img src="assets/img/Product_Recommendation.png"><center>
 
-
 ## Telecom Churn Prediction
 Telecom companies face constant pressure to evolve due to shifting customer needs and market competition. Retaining customers and preventing churn is critical. Customers typically move through phases: initial satisfaction, a decline in experience due to factors like service issues or charges, and finally, churn, where they switch to another provider. Predicting churn probability early and taking proactive measures can help operators retain customers.
 
